@@ -1,3 +1,4 @@
+import argparse
 from utils import read_video, save_video
 from trackers import Tracker
 import cv2
@@ -30,7 +31,11 @@ logic của hàm main:
 '''
 def main():
     # Read Video
-    video_path = 'input_videos/08fd33_4.mp4'  # Thay đổi thành video có sẵn
+    parser = argparse.ArgumentParser(description='Football Analysis AI')
+    parser.add_argument('--input', type=str, default='input_videos/08fd33_4.mp4', help='Đường dẫn đến video đầu vào')
+    args = parser.parse_args()
+    
+    video_path = args.input
     
     try:
         video_frames = read_video(video_path)
