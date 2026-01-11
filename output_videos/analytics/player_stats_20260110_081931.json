@@ -1,0 +1,56 @@
+{
+  "timestamp": "20260110_081931",
+  "analysis_type": "player_statistics",
+  "players": {
+    "12": {
+      "player_id": 12,
+      "team": 1,
+      "ball_touches": 2,
+      "possession_frames": 25,
+      "possession_percentage": 3.38,
+      "total_distance_meters": 35975.56,
+      "average_speed_kmh": 15.66,
+      "frames_tracked": 740
+    },
+    "13": {
+      "player_id": 13,
+      "team": 2,
+      "ball_touches": 3,
+      "possession_frames": 31,
+      "possession_percentage": 4.17,
+      "total_distance_meters": 37305.72,
+      "average_speed_kmh": 11.67,
+      "frames_tracked": 744
+    },
+    "19": {
+      "player_id": 19,
+      "team": 1,
+      "ball_touches": 1,
+      "possession_frames": 16,
+      "possession_percentage": 2.2,
+      "total_distance_meters": 31501.95,
+      "average_speed_kmh": 8.92,
+      "frames_tracked": 728
+    },
+    "22": {
+      "player_id": 22,
+      "team": 1,
+      "ball_touches": 3,
+      "possession_frames": 10,
+      "possession_percentage": 1.4,
+      "total_distance_meters": 53639.67,
+      "average_speed_kmh": 18.62,
+      "frames_tracked": 712
+    },
+    "156": {
+      "player_id": 156,
+      "team": 2,
+      "ball_touches": 2,
+      "possession_frames": 10,
+      "possession_percentage": 2.51,
+      "total_distance_meters": 29287.77,
+      "average_speed_kmh": 21.74,
+      "frames_tracked": 398
+    }
+  }
+}

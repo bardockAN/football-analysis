@@ -1,0 +1,6 @@
+player_id,team,ball_touches,possession_frames,possession_percentage,total_distance,average_speed,frames_tracked
+12,2,2,25,3.38,35975.56,15.66,740
+13,1,3,31,4.17,37305.72,11.67,744
+19,2,1,16,2.20,31501.95,8.92,728
+22,2,3,10,1.40,53639.67,18.62,712
+156,1,2,10,2.51,29287.77,21.74,398

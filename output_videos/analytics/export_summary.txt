@@ -1,0 +1,42 @@
+============================================================
+FOOTBALL ANALYSIS - EXPORT SUMMARY
+============================================================
+
+Export Date: 2026-01-10 08:35:55
+
+Exported Files:
+------------------------------------------------------------
+
+player_stats_json:
+  Path: output_videos/analytics/player_stats_20260110_083555.json
+  Size: 1,424 bytes
+
+player_stats_csv:
+  Path: output_videos/analytics/player_stats_20260110_083555.csv
+  Size: 297 bytes
+
+team_comparison_json:
+  Path: output_videos/analytics/team_comparison_20260110_083555.json
+  Size: 1,537 bytes
+
+team_comparison_csv:
+  Path: output_videos/analytics/team_comparison_20260110_083555.csv
+  Size: 188 bytes
+
+mvp_analysis_json:
+  Path: output_videos/analytics/mvp_analysis_20260110_083555.json
+  Size: 133,961 bytes
+
+tactical_analysis_json:
+  Path: output_videos/analytics/tactical_analysis_20260110_083555.json
+  Size: 4,741 bytes
+
+passing_network_csv:
+  Path: output_videos/analytics/passing_network_20260110_083555.csv
+  Size: 244 bytes
+
+comprehensive_json:
+  Path: output_videos/analytics/comprehensive_analysis_20260110_083555.json
+  Size: 141,215 bytes
+
+============================================================
