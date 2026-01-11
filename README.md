@@ -55,7 +55,7 @@ pip install -r requirements.txt
 #   └── data.yaml
 ```
 
-Download from: [FutVAR Dataset on Roboflow](https://universe.roboflow.com/futvar/football-players-detection)
+Download from: [FutVAR Dataset on Roboflow]([https://universe.roboflow.com/futvar/football-players-detection](https://universe.roboflow.com/ranjit-raut-do9me/futvar-football-players-detection-dataset/dataset/10))
 
 5. **Download pretrained model**
 ```bash
