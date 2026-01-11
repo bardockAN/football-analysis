@@ -61,7 +61,7 @@ Download from: [FutVAR Dataset on Roboflow]([https://universe.roboflow.com/futva
 ```bash
 # Place your trained model weights in models/
 # Or download from releases:
-# https://github.com/YOUR_USERNAME/football_analysis/releases
+# [https://github.com/bardockAN/football_analysis/releases](https://github.com/bardockAN/football-analysis/releases/tag/v1.0)
 ```
 
 ## 💻 Usage
