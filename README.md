@@ -31,7 +31,7 @@ CUDA-capable GPU (recommended)
 1. **Clone the repository**
 ```bash
 git clone https://github.com/YOUR_USERNAME/football_analysis.git
-cd football_analysis
+cd football-analysis
 ```
 
 2. **Create virtual environment**
