@@ -169,15 +169,6 @@ football_analysis/
 
 **Dataset**: FutVAR Football Players Detection (4 classes: player, goalkeeper, referee, ball)
 
-### Comparison with Baselines
-
-See `evaluation_results/HONEST_COMPARISON.md` for detailed comparison with:
-- YOLOv9 (2024)
-- YOLOv8 (2023)
-- YOLOv7 (2023)
-
-All citations verified ✅
-
 ## 🎯 Use Cases
 
 1. **Match Analysis**: Automated player tracking and movement analysis
@@ -192,7 +183,7 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{football_analysis2026,
-  author = {Your Name},
+  author = {Bui Dang Quoc An, Pham Thai Duong, Pham Tien Dat, Tran Le Khanh Duy},
   title = {Football Analysis System with YOLOv11},
   year = {2026},
   url = {https://github.com/YOUR_USERNAME/football_analysis}
@@ -218,11 +209,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - [Ultralytics YOLOv11](https://github.com/ultralytics/ultralytics) - Object detection framework
 - [ByteTrack](https://github.com/ifzhang/ByteTrack) - Multi-object tracking
 - [FutVAR Dataset](https://universe.roboflow.com/futvar/football-players-detection) - Training dataset
-- YOLOv9, YOLOv8, YOLOv7 papers for baseline comparisons
+
 
 ## 📧 Contact
 
-For questions or issues, please open an issue on GitHub or contact [your-email@example.com]
+For questions or issues, please open an issue on GitHub.
 
 ---
 
