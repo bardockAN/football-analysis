@@ -186,7 +186,7 @@ If you use this project in your research, please cite:
   author = {Bui Dang Quoc An, Pham Thai Duong, Pham Tien Dat, Tran Le Khanh Duy},
   title = {Football Analysis System with YOLOv11},
   year = {2026},
-  url = {https://github.com/YOUR_USERNAME/football_analysis}
+  url = {https://github.com/bardockAN/football_analysis}
 }
 ```
 
